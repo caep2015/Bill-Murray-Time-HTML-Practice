@@ -1,5 +1,6 @@
-# Bill-Murray-Time-HTML-Practice
-The Iron Yard Week 1 Pair Programming HTML Practice
+The Iron Yard Week 1 Day 3 Pair Programming HTML Practice
+
+# Bill-Murray-Time-HTML-Practice 
 
 ## Activity: Bill Murray Time - Practice with HTML - Pair Programming
 
